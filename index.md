@@ -2,31 +2,23 @@
 
 ---
 
-### Category Name 1 
+### Exploratory Data Analysis
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Online retail Store](https://github.com/shrief-khamis/online-retail-eda)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Exploring data from an online retail store based in UK, where I using R:
+* Presented my process in understanding the data, through one variable at first, and then switching to another approach.
+* Cleaned the data, and created a star-like data structure.
+* Analyzed the data, and presented the results through some visuals.
+* Provided actionable suggestions related to the data structure, the data entry process, discount policy, return rate and losses.
+A real life application for a project like that would be in a situation where a company acquires an online store and inherits its books without much information about the data entry process or the data structure.
 
 ---
+[European Soccer database](https://github.com/shrief-khamis/exploring-european-soccer-database)
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+A fun project where I used PostgreSQL to explore the European Soccer Database.
+I wrote queries to summarize some information and comparisons about all the leagues in the database, and also more in details summaries about specific leagues.
+A real life application for this would be in any website or application that is interested in presenting any of the European leagues results and stats in any manner they see best.
 
 
 
