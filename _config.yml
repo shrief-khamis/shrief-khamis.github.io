@@ -3,8 +3,27 @@ logo: "/images/pp.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Analyst
   <br><br>
-  <!--Second description 
+  Software Developer 
   <br><br> -->
+  skills:
+  - Python
+  - SQL
+  - javaScript
+  - Google Apps Script
+  - Web Scraping
+  - Data Visualization
+  - Data Analytics
+  - Chrome Extension Development
+technologies:
+  - AWS (S3, RDS, Lambda, EC2)
+  - pandas
+  - SQLAlchemy
+  - matplotlib
+  - PostgreSQL
+  - Power BI
+  - Docker
+  - Git
+  - Jupyter Notebooks
   <a href="https://www.linkedin.com/in/shrief-khamis/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
